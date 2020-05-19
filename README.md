@@ -10,7 +10,7 @@
     GND     -->>    SG
 
 
-## 第二步 : 開啟Realterm 做設定
+## 第二步 : 開啟Realterm 做設定(安裝檔已附上)
 
 ![image](https://github.com/Uniboy-ROS/KV-NC20L_Serial_test/blob/master/image/1.PNG)
 
