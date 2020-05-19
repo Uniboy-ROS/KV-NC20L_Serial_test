@@ -24,6 +24,7 @@
     按下單元編輯器，如下圖，做設定。
 
 ![image](https://github.com/Uniboy-ROS/KV-NC20L_Serial_test/blob/master/image/KV.PNG)
+![image](https://github.com/Uniboy-ROS/KV-NC20L_Serial_test/blob/master/image/KV2.PNG)
 
     按下R000 透過Serial output value。
 
